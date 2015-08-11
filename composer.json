@@ -1,0 +1,9 @@
+{
+  "name": "np_wp_plugin/dallasphp-plugin",
+  "type": "wordpress-plugin",
+  "description": "This is stupid",
+  "keywords": ["plugin","wordpress","dallasphp","demo"],
+  "require": {
+    "composer/installers": "~1.0.6"
+  }
+}
